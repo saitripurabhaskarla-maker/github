@@ -1,0 +1,50 @@
+# Contributing
+
+Thank you for your interest in contributing to this project! All
+contributions, bug reports, bug fixes, documentation improvements,
+enhancements, and ideas are welcome.
+
+## How to Contribute
+
+1. **Fork** the repository to your own GitHub account.
+2. **Clone** your fork locally:
+   ```bash
+   git clone https://github.com/<your-username>/<repo-name>.git
+   ```
+3. **Create a branch** for your change:
+   ```bash
+   git checkout -b my-feature-branch
+   ```
+4. **Make your changes** and commit them with a clear message:
+   ```bash
+   git add .
+   git commit -m "Describe your change"
+   ```
+5. **Push** your branch to your fork:
+   ```bash
+   git push origin my-feature-branch
+   ```
+6. **Open a Pull Request** against the main repository, describing what
+   you changed and why.
+
+## Reporting Bugs
+
+If you find a bug, please open an issue and include:
+- A clear description of the problem
+- Steps to reproduce it
+- Expected vs. actual behavior
+
+## Suggesting Enhancements
+
+Ideas for new features or improvements are always welcome. Open an issue
+describing the enhancement and the motivation behind it.
+
+## Code Style
+
+Please keep changes focused and well-documented. Add comments where helpful,
+especially in shell scripts, so future contributors can follow the logic.
+
+## Code of Conduct
+
+By participating in this project, you agree to abide by our
+[Code of Conduct](CODE_OF_CONDUCT.md).
